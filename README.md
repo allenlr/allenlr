@@ -7,11 +7,11 @@ Extensive background troubleshooting things from robotics hardware to anything s
 Applying a knack for fixing things to real world problems
 
 ## Projects
-### Servyces Demo | Repo
+### Servyces [Demo](https://youtu.be/_h5O8lNsKoA?si=5jXUKO1mg6Q1fQ-X) | [Repo](https://github.com/allenlr/phase-5-project)
 A platform connecting users with service providers. Focused on secure data management and asynchronous retrieval.
-### Music Reviewer
+### Music Reviewer [Demo](https://youtu.be/gzk9SFkHWJo) | [Repo](https://github.com/allenlr/phase-4-project)
 A user-driven album catalog with robust authentication and data validation features.
-### System Analysis Web App
+### System Analysis Web App [Demo](https://youtu.be/NuftZej2szM) | [Repo](https://github.com/allenlr/phase-3-project)
 A web app for tracking employee expenses, emphasizing CRUD operations and effective data management.
 
 ## Tech Stack:
