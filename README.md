@@ -16,7 +16,9 @@ A web app for tracking employee expenses, emphasizing CRUD operations and effect
 
 ## Currently...
 Traveling and fixing Pharmacy Automation Robots
+
 Exploring and Learning new technologies to familiarize myself with the AI revolution
+
 Listening to audiobooks
 
 ## Tech Stack:
