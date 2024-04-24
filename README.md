@@ -14,6 +14,11 @@ A user-driven album catalog with robust authentication and data validation featu
 ### System Analysis Web App [Demo](https://youtu.be/NuftZej2szM) | [Repo](https://github.com/allenlr/phase-3-project)
 A web app for tracking employee expenses, emphasizing CRUD operations and effective data management.
 
+## Currently...
+Traveling and fixing Pharmacy Automation Robots
+Exploring and Learning new technologies to familiarize myself with the AI revolution
+Listening to audiobooks
+
 ## Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
