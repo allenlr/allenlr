@@ -1,6 +1,6 @@
 # Hi! I'm Allen
 
-Full Stack Software Engineer brought up on Javascrip and Ruby on Rails.
+Full Stack Software Engineer brought up on Javascript and Ruby on Rails.
 
 Extensive background troubleshooting things from robotics hardware to anything software related.
 
