@@ -11,7 +11,7 @@ Applying a knack for fixing things to real world problems
 A platform connecting users with service providers. Focused on secure data management and asynchronous retrieval.
 ### Music Reviewer [Demo](https://youtu.be/gzk9SFkHWJo) | [Repo](https://github.com/allenlr/phase-4-project)
 A user-driven album catalog with robust authentication and data validation features.
-### System Analysis Web App [Demo](https://youtu.be/NuftZej2szM) | [Repo](https://github.com/allenlr/phase-3-project)
+### System Analysis Web App [Demo](https://youtu.be/NuftZej2szM) | [Repo](https://github.com/allenlr/alr-phase-3-project-frontend)
 A web app for tracking employee expenses, emphasizing CRUD operations and effective data management.
 
 ## Currently...
