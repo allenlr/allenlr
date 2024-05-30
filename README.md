@@ -15,9 +15,9 @@ A user-driven album catalog with robust authentication and data validation featu
 A web app for tracking employee expenses, emphasizing CRUD operations and effective data management.
 
 ## Currently...
-Traveling and fixing Pharmacy Automation Robots
+Working with Pharmacy Automation Robots
 
-Exploring and Learning new technologies to familiarize myself with the AI revolution
+Exploring and Learning new technologies to familiarize myself with AI and ML
 
 Listening to audiobooks
 
